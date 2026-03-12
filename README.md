@@ -64,9 +64,9 @@
 
 <div align="center">
 
-| Core Infrastructure | Frameworks | Cloud / Ops |
+| Languages & Runtime | Frameworks & Libraries | Data & Tools |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=py,ts,js,rust,cpp,c&theme=dark&perline=3"/> | <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,fastapi,nodejs&theme=dark&perline=3"/> | <img src="https://skillicons.dev/icons?i=aws,docker,mongodb,postgres,githubactions,linux&theme=dark&perline=3"/> |
+| <img src="https://skillicons.dev/icons?i=js,ts,nodejs&theme=dark&perline=3"/> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,express&theme=dark&perline=4"/> | <img src="https://skillicons.dev/icons?i=mongodb,vite,vercel&theme=dark&perline=3"/> |
 
 </div>
 
@@ -76,7 +76,7 @@
   <summary><b>🔥 Click to expand: IDEs, Design & Workflow Stack</b></summary>
   <br>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,postman,git,github,vite,bash" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,vite,postman" />
   </div>
 </details>
 
@@ -89,30 +89,32 @@
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://img.shields.io/badge/PROJECT_1-00F7FF?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
+        <img src="https://img.shields.io/badge/NDJL-00F7FF?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
       </div>
-      <p align="center"><b>Your First Flagship Project</b></p>
+      <p align="center"><b>Natural Developer Junior Language</b></p>
       <ul>
-        <li>Key feature / highlight one</li>
-        <li>Key feature / highlight two</li>
-        <li>Key feature / highlight three</li>
+        <li>Custom beginner-friendly programming language — <em>"Write Code the Way Humans Think"</em></li>
+        <li>Full interpreter pipeline: tokenizer → parser → AST → tree-walk interpreter (zero npm dependencies)</li>
+        <li>VS Code extension with syntax highlighting, autocomplete, snippets & run command</li>
+        <li>Windows installer (.exe) built with <code>pkg</code> + Inno Setup — no Node.js required on target machine</li>
       </ul>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,docker" height="40" />
+        <img src="https://skillicons.dev/icons?i=nodejs,js,vscode" height="40" />
       </p>
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://img.shields.io/badge/PROJECT_2-FF3E00?style=for-the-badge&logo=anchor&logoColor=white" />
+        <img src="https://img.shields.io/badge/MELINI-FF3E00?style=for-the-badge&logo=shopify&logoColor=white" />
       </div>
-      <p align="center"><b>Your Second Flagship Project</b></p>
+      <p align="center"><b>MELINI — Indian Fashion E-Commerce</b></p>
       <ul>
-        <li>Key feature / highlight one</li>
-        <li>Key feature / highlight two</li>
-        <li>Key feature / highlight three</li>
+        <li>Full-stack production platform: React 18 + TypeScript SPA with Next.js marketing site</li>
+        <li>Node.js/Express REST API, MongoDB database, Razorpay payment gateway & Cloudinary images</li>
+        <li>Admin dashboard with JWT auth, live config reload, coupon system & order management</li>
+        <li>Deployed on Vercel with serverless API functions; per-size pricing, wishlist & cart persistence</li>
       </ul>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=py,fastapi,mongodb,aws" height="40" />
+        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,mongodb,express" height="40" />
       </p>
     </td>
   </tr>
