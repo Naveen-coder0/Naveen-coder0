@@ -73,7 +73,7 @@
 <br>
 
 <details>
-  <summary><b>🔥 Click to expand: IDEs, Design & Workflow Stack</b></summary>
+  <summary><b>🔥 Click to expand: Workflow Stack</b></summary>
   <br>
   <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,git,github,vite,postman" />
