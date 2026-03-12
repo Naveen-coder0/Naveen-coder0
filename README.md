@@ -24,6 +24,35 @@
 </div>
 
 
+### 👨‍💻 Who dis?
+
+```javascript
+const naveen = {
+  name:        "Naveen Maan",
+  base:        "India 🇮🇳",
+  age:         "young enough to break prod, wise enough to undo it",
+
+  by_day:      "building full-stack apps that actually ship",
+  by_night:    "inventing programming languages nobody asked for",
+
+  stack:       "React, Node.js, MongoDB, TypeScript — and whatever the project needs",
+  fuel:        "deadlines. mostly deadlines.",
+
+  lowkey_flexes: [
+    "created NDJL — a programming language that reads like plain English",
+    "shipped MELINI, a full-stack Indian fashion e-commerce platform",
+    "built a VS Code extension + Windows installer for my own language",
+    "zero npm dependencies on the NDJL interpreter. yes, really.",
+  ],
+
+  currently_obsessed_with: "making code feel less like code",
+
+  if_you_re_reading_this:  "collab, hire, or just say hi — all valid options",
+};
+```
+
+---
+
 ### 👨‍💻 The Developer Architecture
 
 > **"Code is the closest thing to a superpower — use it to build something real."**
