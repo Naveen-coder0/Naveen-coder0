@@ -327,9 +327,7 @@ const naveen = {
 
 <br>
 
-<picture>
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Naveen-coder0&data=followers,repositories,stars,commits&theme=darkmode" width="70%" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=Naveen-coder0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=contribs&hide_title=true&hide_rank=true&icon_color=00F7FF&text_color=00F7FF" width="45%" />
 
 <br><br>
 
