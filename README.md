@@ -175,9 +175,9 @@ const naveen = {
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/THAPAR_UNIVERSITY-FF6B00?style=for-the-badge&logo=google-scholar&logoColor=white" />
       <br><br>
-      <b>🏆 Competed & Delivered</b>
+      <b>🔜 Upcoming Hackathon</b>
       <br>
-      <sub>Participated in a university-level hackathon at Thapar University, building and presenting a working project under time constraints.</sub>
+      <sub>Gearing up for a university-level hackathon at Thapar University — ready to build, compete, and ship under pressure.</sub>
       <br><br>
       <img src="https://skillicons.dev/icons?i=react,ts,mongodb" height="30" />
     </td>
