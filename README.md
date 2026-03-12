@@ -15,6 +15,15 @@
 </div>
 
 ---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Naveen-coder0&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+</div>
+
+---
+
 #### 🐍 Contribution Snake
 <div align="center">
   <picture>
@@ -62,7 +71,7 @@ const naveen = {
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>� What I Build</h4>
+      <h4>🔨 What I Build</h4>
       <ul>
         <li>Full-stack web applications (React + Node.js)</li>
         <li>Custom programming languages & interpreters</li>
@@ -82,10 +91,6 @@ const naveen = {
     </td>
   </tr>
 </table>
-
-<!-- <div align="center">
-  <img src="https://novatorem.vercel.app/api/spotify?theme=tokyonight&color=00F7FF" width="280" alt="Spotify Now Playing" />
-</div> -->
 
 ---
 
@@ -154,13 +159,30 @@ const naveen = {
 
 <div align="center">
 
-### 🏆 Innovation & Hackathons
+### 🏆 Hackathons & Competitions
 
-| Event | Rank | Focus |
-| :---: | :---: | :---: |
-| **Hackathon / Event 1** | 🥇 Winner | Your Focus Area |
-| **Hackathon / Event 2** | 🥈 Runner Up | Your Focus Area |
-| **Hackathon / Event 3** | 🏆 Top Tier | Your Focus Area |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/CGCU_HACKATHON-00F7FF?style=for-the-badge&logo=hackthebox&logoColor=black" />
+      <br><br>
+      <b>🥇 Built NDJL</b>
+      <br>
+      <sub>Created a full programming language from scratch — tokenizer, parser, AST interpreter — in a single hackathon sprint. Zero npm dependencies.</sub>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,js,vscode" height="30" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/THAPAR_UNIVERSITY-FF6B00?style=for-the-badge&logo=google-scholar&logoColor=white" />
+      <br><br>
+      <b>🏆 Competed & Delivered</b>
+      <br>
+      <sub>Participated in a university-level hackathon at Thapar University, building and presenting a working project under time constraints.</sub>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=react,ts,mongodb" height="30" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -187,6 +209,13 @@ const naveen = {
 
 <br>
 
+#### 📉 Contribution Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-coder0&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</div>
+
+<br>
+
 #### 🧊 3D Contribution Matrix
 <div align="center">
   <picture>
@@ -195,11 +224,26 @@ const naveen = {
   </picture>
 </div>
 
-### 🤝 Establish Connection
+### 📌 Featured Repositories
+
+<div align="center">
+  <a href="https://github.com/Naveen-coder0/NDJL">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen-coder0&repo=NDJL&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Naveen-coder0/MELINI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen-coder0&repo=MELINI&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+---
+
+### 🤝 Let's Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/naveen-maan06/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
   <a href="mailto:naveen.maan2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
   <a href="https://discord.com/users/Naveen-coder0"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </div>
 
@@ -212,5 +256,5 @@ const naveen = {
 <br>
 
 <div align="center">
-  <sub>Built with ⚡ by <b>Naveen Maan</b></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer" width="100%" />
 </div>
