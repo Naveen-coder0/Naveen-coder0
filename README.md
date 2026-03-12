@@ -251,24 +251,6 @@ const naveen = {
 
 <br><br>
 
-<details>
-  <summary><b>📈 Detailed Profile Summary</b></summary>
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naveen-coder0&theme=tokyonight" width="90%" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naveen-coder0&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naveen-coder0&theme=tokyonight" width="45%" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naveen-coder0&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naveen-coder0&theme=tokyonight&utcOffset=5.5" width="45%" />
-</details>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-coder0&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="95%" />
-
-<br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naveen-coder0/Naveen-coder0/main/profile-3d-contrib/profile-night-view.svg">
   <img src="https://raw.githubusercontent.com/Naveen-coder0/Naveen-coder0/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="95%"/>
