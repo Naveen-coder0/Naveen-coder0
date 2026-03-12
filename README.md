@@ -26,33 +26,33 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🤖 Core Competencies</h4>
-      <ul>
+      <!-- <ul>
         <li>AI productivity systems</li>
         <li>Security automation agents</li>
         <li>Distributed backend architecture</li>
         <li>Deterministic canvas → code engines</li>
-        <li>Developer productivity tooling</li>
+        <li>Developer productivity tooling</li> -->
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>⚡ Current Operations</h4>
       <ul>
-        <li>Architecting the <b>AASK IDE core engine</b></li>
+        <!-- <li>Architecting the <b>AASK IDE core engine</b></li>
         <li>Training AI models for <b>code security analysis</b></li>
         <li>Building <b>cloud-native OSS infrastructure</b></li>
-        <li>Maintaining open-source frameworks</li>
+        <li>Maintaining open-source frameworks</li> -->
       </ul>
     </td>
   </tr>
 </table>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://novatorem.vercel.app/api/spotify?theme=tokyonight&color=00F7FF" width="280" alt="Spotify Now Playing" />
-</div>
+</div> -->
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Specialities
 
 <div align="center">
 
@@ -177,5 +177,5 @@
 <br>
 
 <div align="center">
-  <sub>Architected with ⚡ by <b>Arindam Bhattacharya</b></sub>
+  <sub>Architected with ⚡ by <b>Naveen Maan</b></sub>
 </div>
