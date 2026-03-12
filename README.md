@@ -62,22 +62,22 @@ const naveen = {
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 Core Competencies</h4>
-      <!-- <ul>
-        <li>AI productivity systems</li>
-        <li>Security automation agents</li>
-        <li>Distributed backend architecture</li>
-        <li>Deterministic canvas → code engines</li>
-        <li>Developer productivity tooling</li> -->
+      <h4>� What I Build</h4>
+      <ul>
+        <li>Full-stack web applications (React + Node.js)</li>
+        <li>Custom programming languages & interpreters</li>
+        <li>E-commerce platforms with payment gateways</li>
+        <li>VS Code extensions & developer tooling</li>
+        <li>Windows distribution pipelines & installers</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>⚡ Current Operations</h4>
+      <h4>🚧 Currently Shipping</h4>
       <ul>
-        <!-- <li>Architecting the <b>AASK IDE core engine</b></li>
-        <li>Training AI models for <b>code security analysis</b></li>
-        <li>Building <b>cloud-native OSS infrastructure</b></li>
-        <li>Maintaining open-source frameworks</li> -->
+        <li>Expanding <b>NDJL</b> with more language features</li>
+        <li>Adding modules & imports to the NDJL interpreter</li>
+        <li>Growing <b>MELINI</b> with more product categories</li>
+        <li>Improving the NDJL VS Code extension experience</li>
       </ul>
     </td>
   </tr>
