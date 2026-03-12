@@ -152,13 +152,17 @@ const naveen = {
 
 ---
 
+<div align="center">
+
 ### 🏆 Innovation & Hackathons
 
 | Event | Rank | Focus |
-| :--- | :---: | :--- |
+| :---: | :---: | :---: |
 | **Hackathon / Event 1** | 🥇 Winner | Your Focus Area |
 | **Hackathon / Event 2** | 🥈 Runner Up | Your Focus Area |
 | **Hackathon / Event 3** | 🏆 Top Tier | Your Focus Area |
+
+</div>
 
 ---
 
