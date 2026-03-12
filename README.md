@@ -328,7 +328,7 @@ const naveen = {
 <br>
 
 <picture>
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Naveen-coder0&data=followers,repositories,stars,commits&theme=tokyonight" width="70%" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Naveen-coder0&data=followers,repositories,stars,commits&theme=darkmode" width="70%" />
 </picture>
 
 <br><br>
