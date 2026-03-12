@@ -1,30 +1,31 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=header&text=Naveen%20Maan&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60" width="100%" />
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Web+Applications;Engineering+AI-Powered+Solutions;Crafting+Clean+%26+Scalable+Code;Open+Source+Contributor+%26+Learner" alt="Typing SVG" />
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F7FF,100:007CF0&height=230&section=header&text=Naveen%20Maan&fontSize=65&fontAlignY=33&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Language%20Creator&descAlignY=58&descSize=18" width="100%" />
 
-  <p align="center">
-    <a href="https://github.com/Naveen-coder0"><img src="https://img.shields.io/github/followers/Naveen-coder0?label=Followers&style=for-the-badge&color=00F7FF&logo=github&logoColor=white" /></a>
-    <a href="https://github.com/Naveen-coder0"><img src="https://img.shields.io/github/stars/Naveen-coder0?style=for-the-badge&color=00F7FF&logo=reverbnation&logoColor=white" /></a>
-    <img src="https://komarev.com/ghpvc/?username=Naveen-coder0&label=Profile+Views&color=00F7FF&style=for-the-badge" />
-  </p>
+  <br>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%E2%9A%A1+Building+the+future%2C+one+commit+at+a+time;%F0%9F%94%A5+Full-Stack+Dev+%7C+Language+Creator+%7C+Open+Source" alt="Typing SVG" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/Naveen-coder0"><img src="https://img.shields.io/github/followers/Naveen-coder0?label=Followers&style=for-the-badge&color=00F7FF&logo=github&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/Naveen-coder0"><img src="https://img.shields.io/github/stars/Naveen-coder0?style=for-the-badge&color=00F7FF&logo=reverbnation&logoColor=white" /></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Naveen-coder0&label=Profile+Views&color=00F7FF&style=for-the-badge" />
 
 </div>
 
----
-
-### 🏆 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Naveen-coder0&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-#### 🐍 Contribution Snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naveen-coder0/Naveen-coder0/output/github-contribution-grid-snake-dark.svg">
@@ -33,228 +34,311 @@
 </div>
 
 
-### 👨‍💻 Who dis?
+<table align="center">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>👨‍💻 <code>$ whoami</code></h3>
 
 ```javascript
 const naveen = {
   name:        "Naveen Maan",
   base:        "India 🇮🇳",
-  age:         "young enough to break prod, wise enough to undo it",
+  age:         "young enough to break prod,
+                wise enough to undo it",
 
-  by_day:      "building full-stack apps that actually ship",
-  by_night:    "inventing programming languages nobody asked for",
+  by_day:      "building full-stack apps that ship",
+  by_night:    "inventing programming languages
+                nobody asked for",
 
-  stack:       "React, Node.js, MongoDB, TypeScript — and whatever the project needs",
+  stack:       ["React", "Node.js", "MongoDB",
+                "TypeScript", "...whatever works"],
   fuel:        "deadlines. mostly deadlines.",
 
   lowkey_flexes: [
-    "created NDJL — a programming language that reads like plain English",
-    "shipped MELINI, a full-stack Indian fashion e-commerce platform",
-    "built a VS Code extension + Windows installer for my own language",
-    "zero npm dependencies on the NDJL interpreter. yes, really.",
+    "created NDJL — a language that reads
+     like plain English",
+    "shipped MELINI — full-stack e-commerce",
+    "VS Code extension + .exe installer
+     for my own language",
+    "zero npm deps on the NDJL interpreter",
   ],
 
-  currently_obsessed_with: "making code feel less like code",
-
-  if_you_re_reading_this:  "collab, hire, or just say hi — all valid options",
+  ping_me: "collab | hire | just say hi",
 };
 ```
+    </td>
+    <td width="45%" valign="top" align="center">
+      <br>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 8px;" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-00F7FF?style=flat-square" />
+      <img src="https://img.shields.io/badge/Lives-India-FF6B00?style=flat-square" />
+      <br>
+      <img src="https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript-007CF0?style=flat-square" />
+      <br>
+      <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode" />
+    </td>
+  </tr>
+</table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 👨‍💻 The Developer Architecture
+<div align="center">
 
-> **"Code is the closest thing to a superpower — use it to build something real."**
-> 
-> I build **web applications, tools, and AI-powered projects**. My focus is writing **clean, scalable code** and shipping products that solve real problems.
+### ⚡ What I'm About
+
+> *"Code is the closest thing to a superpower — use it to build something real."*
+
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/🔨_BUILDER-00F7FF?style=for-the-badge" /><br><br>
+      <b>Full-stack web apps</b><br>
+      <b>Programming languages</b><br>
+      <b>E-commerce platforms</b><br>
+      <b>VS Code extensions</b><br>
+      <b>Desktop installers</b>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/🚀_SHIPPING-007CF0?style=for-the-badge" /><br><br>
+      <b>NDJL v2 features</b><br>
+      <b>Module & import system</b><br>
+      <b>MELINI expansion</b><br>
+      <b>VS Code ext upgrades</b><br>
+      <b>Open source contribs</b>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/📚_LEARNING-FF6B00?style=for-the-badge" /><br><br>
+      <b>System design</b><br>
+      <b>Advanced TypeScript</b><br>
+      <b>AI / ML integrations</b><br>
+      <b>DevOps & CI/CD</b><br>
+      <b>Compiler design</b>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+### 🛠️ Tech Arsenal
+
+<br>
+
+<img src="https://img.shields.io/badge/LANGUAGES-0d1117?style=for-the-badge" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FRONTEND-0d1117?style=for-the-badge" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BACKEND_%26_DATABASE-0d1117?style=for-the-badge" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/TOOLS_%26_PLATFORMS-0d1117?style=for-the-badge" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,vite,postman&theme=dark" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+### 🚀 Flagship Projects
+
+</div>
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🔨 What I Build</h4>
-      <ul>
-        <li>Full-stack web applications (React + Node.js)</li>
-        <li>Custom programming languages & interpreters</li>
-        <li>E-commerce platforms with payment gateways</li>
-        <li>VS Code extensions & developer tooling</li>
-        <li>Windows distribution pipelines & installers</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🚧 Currently Shipping</h4>
-      <ul>
-        <li>Expanding <b>NDJL</b> with more language features</li>
-        <li>Adding modules & imports to the NDJL interpreter</li>
-        <li>Growing <b>MELINI</b> with more product categories</li>
-        <li>Improving the NDJL VS Code extension experience</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Technical Specialities
-
-<div align="center">
-
-| Languages & Runtime | Frameworks & Libraries | Data & Tools |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js,ts,nodejs&theme=dark&perline=3"/> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,express&theme=dark&perline=4"/> | <img src="https://skillicons.dev/icons?i=mongodb,vite,vercel&theme=dark&perline=3"/> |
-
-</div>
-
-<br>
-
-<details>
-  <summary><b>🔥 Click to expand: Workflow Stack</b></summary>
-  <br>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,vite,postman" />
-  </div>
-</details>
-
----
-
-### 🚀 Production Systems
-
-<div align="center">
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
       <div align="center">
-        <img src="https://img.shields.io/badge/NDJL-00F7FF?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
+        <img src="https://img.shields.io/badge/★_NDJL_★-00F7FF?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
+        <br>
+        <sub><b>Natural Developer Junior Language</b></sub>
+        <br><br>
+        <img src="https://img.shields.io/badge/Status-Production-00FF00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Deps-Zero-00F7FF?style=flat-square" />
       </div>
-      <p align="center"><b>Natural Developer Junior Language</b></p>
+      <br>
       <ul>
-        <li>Custom beginner-friendly programming language — <em>"Write Code the Way Humans Think"</em></li>
-        <li>Full interpreter pipeline: tokenizer → parser → AST → tree-walk interpreter (zero npm dependencies)</li>
-        <li>VS Code extension with syntax highlighting, autocomplete, snippets & run command</li>
-        <li>Windows installer (.exe) built with <code>pkg</code> + Inno Setup — no Node.js required on target machine</li>
+        <li>🧠 Custom programming language — <em>"Write Code the Way Humans Think"</em></li>
+        <li>⚙️ Tokenizer → Parser → AST → Tree-walk Interpreter</li>
+        <li>🎨 VS Code extension: syntax highlighting, autocomplete, snippets</li>
+        <li>📦 Windows installer (.exe) via <code>pkg</code> + Inno Setup</li>
       </ul>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,js,vscode" height="40" />
+        <img src="https://skillicons.dev/icons?i=nodejs,js,vscode" height="35" />
       </p>
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://img.shields.io/badge/MELINI-FF3E00?style=for-the-badge&logo=shopify&logoColor=white" />
+        <img src="https://img.shields.io/badge/★_MELINI_★-FF3E00?style=for-the-badge&logo=shopify&logoColor=white" />
+        <br>
+        <sub><b>Indian Fashion E-Commerce Platform</b></sub>
+        <br><br>
+        <img src="https://img.shields.io/badge/Status-Live-00FF00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-MERN-FF6B00?style=flat-square" />
       </div>
-      <p align="center"><b>MELINI — Indian Fashion E-Commerce</b></p>
+      <br>
       <ul>
-        <li>Full-stack production platform: React 18 + TypeScript SPA with Next.js marketing site</li>
-        <li>Node.js/Express REST API, MongoDB database, Razorpay payment gateway & Cloudinary images</li>
-        <li>Admin dashboard with JWT auth, live config reload, coupon system & order management</li>
-        <li>Deployed on Vercel with serverless API functions; per-size pricing, wishlist & cart persistence</li>
+        <li>🛒 React 18 + TypeScript SPA with Next.js marketing site</li>
+        <li>🔧 Node/Express API + MongoDB + Razorpay + Cloudinary</li>
+        <li>🔐 Admin dashboard: JWT auth, coupons, order mgmt</li>
+        <li>☁️ Deployed on Vercel with serverless functions</li>
       </ul>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,mongodb,express" height="40" />
+        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,mongodb,express" height="35" />
       </p>
     </td>
   </tr>
 </table>
-</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
 ### 🏆 Hackathons & Competitions
 
+<br>
+
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/CGCU_HACKATHON-00F7FF?style=for-the-badge&logo=hackthebox&logoColor=black" />
+      <img src="https://img.shields.io/badge/🏁_CGCU_HACKATHON-00F7FF?style=for-the-badge&logoColor=black" />
       <br><br>
-      <b>🥇 Built NDJL</b>
-      <br>
-      <sub>Created a full programming language from scratch — tokenizer, parser, AST interpreter — in a single hackathon sprint. Zero npm dependencies.</sub>
+      <img src="https://img.shields.io/badge/RESULT-🥇_WINNER-00FF00?style=for-the-badge" />
+      <br><br>
+      <b>Built NDJL from Scratch</b>
+      <br><br>
+      <sub>Created an entire programming language in one hackathon sprint.<br>Tokenizer → Parser → AST → Interpreter.<br><b>Zero npm dependencies.</b></sub>
       <br><br>
       <img src="https://skillicons.dev/icons?i=nodejs,js,vscode" height="30" />
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/THAPAR_UNIVERSITY-FF6B00?style=for-the-badge&logo=google-scholar&logoColor=white" />
+      <img src="https://img.shields.io/badge/🎓_THAPAR_UNIVERSITY-FF6B00?style=for-the-badge&logoColor=white" />
       <br><br>
-      <b>🔜 Upcoming Hackathon</b>
-      <br>
-      <sub>Gearing up for a university-level hackathon at Thapar University — ready to build, compete, and ship under pressure.</sub>
+      <img src="https://img.shields.io/badge/STATUS-🔜_UPCOMING-FFD700?style=for-the-badge" />
+      <br><br>
+      <b>University-Level Hackathon</b>
+      <br><br>
+      <sub>Gearing up for a competitive hackathon at Thapar University.<br>Ready to build, compete, and ship under pressure.<br><b>Bring it on.</b></sub>
       <br><br>
       <img src="https://skillicons.dev/icons?i=react,ts,mongodb" height="30" />
     </td>
   </tr>
 </table>
 
+<br>
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📊 Engineering Telemetry & Analytics
+<div align="center">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Naveen-coder0&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-coder0&layout=compact&theme=tokyonight&hide_border=true" />
+### 📊 GitHub Analytics
+
+<br>
+
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Naveen-coder0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&ring_color=00F7FF&icon_color=00F7FF" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-coder0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Naveen-coder0&theme=tokyonight&hide_border=true" />
-</p>
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Naveen-coder0&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=FF6B00&currStreakLabel=00F7FF" width="60%" />
+
+<br><br>
 
 <details>
-  <summary><b>📈 Click to expand: Deep Profile Summary Cards</b></summary>
+  <summary><b>📈 Detailed Profile Summary</b></summary>
   <br>
-  <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naveen-coder0&theme=tokyonight" />
-  </div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naveen-coder0&theme=tokyonight" width="90%" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naveen-coder0&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naveen-coder0&theme=tokyonight" width="45%" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Naveen-coder0&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naveen-coder0&theme=tokyonight&utcOffset=5.5" width="45%" />
 </details>
 
 <br>
 
-#### 📉 Contribution Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-coder0&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-coder0&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="95%" />
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naveen-coder0/Naveen-coder0/main/profile-3d-contrib/profile-night-view.svg">
+  <img src="https://raw.githubusercontent.com/Naveen-coder0/Naveen-coder0/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="95%"/>
+</picture>
+
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-#### 🧊 3D Contribution Matrix
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naveen-coder0/Naveen-coder0/main/profile-3d-contrib/profile-night-view.svg">
-    <img src="https://raw.githubusercontent.com/Naveen-coder0/Naveen-coder0/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="850"/>
-  </picture>
-</div>
 
 ### 📌 Featured Repositories
 
-<div align="center">
-  <a href="https://github.com/Naveen-coder0/NDJL">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen-coder0&repo=NDJL&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Naveen-coder0/MELINI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen-coder0&repo=MELINI&theme=tokyonight&hide_border=true" />
-  </a>
+<br>
+
+<a href="https://github.com/Naveen-coder0/NDJL">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen-coder0&repo=NDJL&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Naveen-coder0/MELINI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen-coder0&repo=MELINI&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
 
 ### 🤝 Let's Connect
 
-<div align="center">
-  <a href="https://linkedin.com/in/naveen-maan06/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:naveen.maan2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://discord.com/users/Naveen-coder0"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</div>
+<br>
+
+<a href="https://linkedin.com/in/naveen-maan06/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:naveen.maan2006@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.com/users/Naveen-coder0">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" />
+</a>
+
+<br><br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 
 <br>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<picture>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Naveen-coder0&data=followers,repositories,stars,commits&theme=tokyonight" width="70%" />
+</picture>
+
+<br><br>
+
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00F7FF,100:007CF0&height=150&section=footer" width="100%" />
