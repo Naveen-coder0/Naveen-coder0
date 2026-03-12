@@ -117,29 +117,32 @@ const naveen = {
 
 ### 🛠️ Tech Arsenal
 
-<br>
-
-<img src="https://img.shields.io/badge/LANGUAGES-0d1117?style=for-the-badge" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FRONTEND-0d1117?style=for-the-badge" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/BACKEND_%26_DATABASE-0d1117?style=for-the-badge" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/TOOLS_%26_PLATFORMS-0d1117?style=for-the-badge" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,vite,postman&theme=dark" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/LANGUAGES-00F7FF?style=for-the-badge&logoColor=black" />
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python&theme=dark" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/FRONTEND-007CF0?style=for-the-badge&logoColor=white" />
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/BACKEND_%26_DATABASE-FF6B00?style=for-the-badge&logoColor=white" />
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/TOOLS_%26_PLATFORMS-5865F2?style=for-the-badge&logoColor=white" />
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,vite,postman&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
