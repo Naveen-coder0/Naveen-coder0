@@ -69,14 +69,15 @@ const naveen = {
     </td>
     <td width="45%" valign="top" align="center">
       <br>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 8px;" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
       <br><br>
-      <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-00F7FF?style=flat-square" />
-      <img src="https://img.shields.io/badge/Lives-India-FF6B00?style=flat-square" />
+      <img src="https://img.shields.io/badge/⚡_Full_Stack_Dev-0d1117?style=for-the-badge&logo=lightning&logoColor=00F7FF" />
       <br>
-      <img src="https://img.shields.io/badge/Languages-JavaScript%20%7C%20TypeScript-007CF0?style=flat-square" />
+      <img src="https://img.shields.io/badge/📍_India-0d1117?style=for-the-badge&logoColor=FF6B00" />
       <br>
-      <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode" />
+      <img src="https://img.shields.io/badge/JS_|_TS-0d1117?style=for-the-badge&logo=typescript&logoColor=007CF0" />
+      <br>
+      <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
     </td>
   </tr>
 </table>
