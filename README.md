@@ -34,53 +34,43 @@
 </div>
 
 
-<table align="center">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>👨‍💻 <code>$ whoami</code></h3>
+<div align="center">
+
+### 👨‍💻 `$ whoami`
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+
+<br>
+
+<img src="https://img.shields.io/badge/⚡_Full_Stack_Dev-00F7FF?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/📍_India-FF6B00?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/JS_%7C_TS-007CF0?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</div>
 
 ```javascript
 const naveen = {
   name:        "Naveen Maan",
   base:        "India 🇮🇳",
-  age:         "young enough to break prod,
-                wise enough to undo it",
+  age:         "young enough to break prod, wise enough to undo it",
 
   by_day:      "building full-stack apps that ship",
-  by_night:    "inventing programming languages
-                nobody asked for",
+  by_night:    "inventing programming languages nobody asked for",
 
-  stack:       ["React", "Node.js", "MongoDB",
-                "TypeScript", "...whatever works"],
+  stack:       ["React", "Node.js", "MongoDB", "TypeScript", "...whatever works"],
   fuel:        "deadlines. mostly deadlines.",
 
   lowkey_flexes: [
-    "created NDJL — a language that reads
-     like plain English",
-    "shipped MELINI — full-stack e-commerce",
-    "VS Code extension + .exe installer
-     for my own language",
+    "created NDJL — a language that reads like plain English",
+    "shipped MELINI — full-stack e-commerce platform",
+    "VS Code extension + .exe installer for my own language",
     "zero npm deps on the NDJL interpreter",
   ],
 
   ping_me: "collab | hire | just say hi",
 };
 ```
-    </td>
-    <td width="45%" valign="top" align="center">
-      <br>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-      <br><br>
-      <img src="https://img.shields.io/badge/⚡_Full_Stack_Dev-0d1117?style=for-the-badge&logo=lightning&logoColor=00F7FF" />
-      <br>
-      <img src="https://img.shields.io/badge/📍_India-0d1117?style=for-the-badge&logoColor=FF6B00" />
-      <br>
-      <img src="https://img.shields.io/badge/JS_|_TS-0d1117?style=for-the-badge&logo=typescript&logoColor=007CF0" />
-      <br>
-      <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-    </td>
-  </tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
