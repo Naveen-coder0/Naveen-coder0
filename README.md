@@ -77,6 +77,12 @@ const naveen = {
 
 > *"Code is the closest thing to a superpower — use it to build something real."*
 
+<br>
+
+<img src="https://img.shields.io/badge/OPEN_TO-Internships-00F7FF?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/OPEN_TO-Collaboration-007CF0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPEN_TO-Freelance-FF6B00?style=for-the-badge" />
+
 </div>
 
 <table align="center" width="100%">
@@ -277,6 +283,38 @@ const naveen = {
 <a href="https://github.com/Naveen-coder0/MELINI">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Naveen-coder0&repo=MELINI&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+### ✨ Why Work With Me
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/FAST_EXECUTION-00F7FF?style=for-the-badge&logoColor=black" /><br><br>
+      <b>I ship MVPs quickly</b><br>
+      <sub>From idea to working demo with clean architecture.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/PRODUCT_MINDSET-007CF0?style=for-the-badge" /><br><br>
+      <b>I build for users</b><br>
+      <sub>Features are aligned to real user problems, not just code.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/END_TO_END-FF6B00?style=for-the-badge" /><br><br>
+      <b>I handle full flow</b><br>
+      <sub>Frontend, backend, deployment, and developer experience.</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<b>Have a project in mind?</b> Mail me at <a href="mailto:naveen.maan2006@gmail.com">naveen.maan2006@gmail.com</a>
 
 </div>
 
