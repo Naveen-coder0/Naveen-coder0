@@ -114,6 +114,18 @@ const naveen = {
   </tr>
 </table>
 
+<br>
+
+<div align="center">
+
+### 🌟 Top Achievements
+
+<img src="https://img.shields.io/badge/CGCU_Hackathon-🥇_Winner-00F7FF?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Built-NDJL_Language-007CF0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Shipped-MELINI_Production_App-FF6B00?style=for-the-badge" />
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
@@ -167,6 +179,8 @@ const naveen = {
         <br><br>
         <img src="https://img.shields.io/badge/Status-Production-00FF00?style=flat-square" />
         <img src="https://img.shields.io/badge/Deps-Zero-00F7FF?style=flat-square" />
+        <br><br>
+        <a href="https://github.com/Naveen-coder0/NDJL"><img src="https://img.shields.io/badge/Repo-View_Code-007CF0?style=flat-square&logo=github&logoColor=white" /></a>
       </div>
       <br>
       <ul>
@@ -187,6 +201,8 @@ const naveen = {
         <br><br>
         <img src="https://img.shields.io/badge/Status-Live-00FF00?style=flat-square" />
         <img src="https://img.shields.io/badge/Stack-MERN-FF6B00?style=flat-square" />
+        <br><br>
+        <a href="https://github.com/Naveen-coder0"><img src="https://img.shields.io/badge/Profile-More_Projects-007CF0?style=flat-square&logo=github&logoColor=white" /></a>
       </div>
       <br>
       <ul>
@@ -233,6 +249,25 @@ const naveen = {
       <sub>Gearing up for a competitive hackathon at Thapar University.<br>Ready to build, compete, and ship under pressure.<br><b>Bring it on.</b></sub>
       <br><br>
       <img src="https://skillicons.dev/icons?i=react,ts,mongodb" height="30" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 🚧 Currently Building
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      ✅ NDJL module/import system<br>
+      ✅ NDJL VS Code experience upgrades<br>
+      🔄 Better error messages in interpreter
+    </td>
+    <td width="50%" valign="top">
+      🔄 MELINI category expansion<br>
+      🔄 Admin workflow polish<br>
+      ⏭️ Thapar hackathon build prep
     </td>
   </tr>
 </table>
@@ -315,6 +350,22 @@ const naveen = {
 <br>
 
 <b>Have a project in mind?</b> Mail me at <a href="mailto:naveen.maan2006@gmail.com">naveen.maan2006@gmail.com</a>
+
+<br><br>
+
+<i>"Naveen combines speed with strong execution quality and product thinking."</i>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+### 🧩 Services
+
+<img src="https://img.shields.io/badge/Web_Apps-React_|_Node-00F7FF?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Developer_Tools-Languages_|_Extensions-007CF0?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/API_Integration-Payments_|_Cloud-FF6B00?style=for-the-badge&logo=cloud&logoColor=white" />
 
 </div>
 
