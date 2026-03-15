@@ -278,6 +278,51 @@ const naveen = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+### ✨ Clean, Expressive Code I Enjoy Writing
+
+```ts
+// Example: simple, readable API handler
+export async function createOrder(req, res) {
+  const { userId, items } = req.body;
+
+  if (!items?.length) {
+    return res.status(400).json({ error: "Cart is empty." });
+  }
+
+  const order = await OrderService.create({ userId, items });
+
+  return res.status(201).json({ orderId: order.id });
+}
+```
+
+### 🧠 How I Like to Work
+
+- Understand the problem deeply before choosing the tech.
+- Ship small, frequent releases instead of one big risky launch.
+- Write code that future-me (and teammates) can read easily.
+- Measure impact (performance, UX, conversions), not just lines of code.
+
+### 🎯 What I'm Looking For
+
+- Full-stack internship or junior role (React + Node/Express + MongoDB).
+- Freelance projects: dashboards, e-commerce, internal tools.
+- Open source collabs around devtools, languages, or developer experience.
+
+### 🗺 NDJL & MELINI Roadmap (next 3–6 months)
+
+- NDJL: standard library utilities (strings, dates, collections).
+- NDJL: CLI tooling for project scaffolding.
+- MELINI: performance pass on product listing and search.
+- MELINI: better analytics for admin (conversion and drop-off points).
+
+<details>
+  <summary><b>Fun facts and side quests</b></summary>
+
+  - Broke production (and fixed it) more than once.
+  - First language I wrote taught me more than any tutorial.
+  - I enjoy designing CLI tools and tiny DX improvements.
+</details>
+
 <div align="center">
 
 ### 📊 GitHub Analytics
